@@ -2,7 +2,7 @@
 #Automation for finding meetups conferences and more..
 #Maybe also to maintain my connections in the long run..
 
-#Tech oriented: Events, workplaces, hackatons, meetups, peoples (twitter, universities and so..), conferences.
+#Tech Oriented: Events, workplaces, hackatons, meetups, peoples (twitter, universities and so..), conferences.
 
 #Accomidations: Hostels, transportation, foods and drinks
 
@@ -10,7 +10,7 @@
     #basics  I, you, she, it...
     #Vocubalry language
     #Sim and stuffs.
-    #
+    #Currency
 
 
 #Algorithms:
@@ -37,13 +37,8 @@
 
 
 
-#Optimization per
 
-
-
-
-
-#Name, Where live, Proffesion, cool work, about what we talked, level of introduction, Current state, where and how we met, .
+#Name, Where live, Proffesion, cool work, about what we talked, **level of introduction**, Current state, where and how we met, .
 
 
 #1. Patrick, England, Prof. Blockhcain, Link,
@@ -67,4 +62,34 @@
 #9. Bart and stuff..
 
 #10. Guy from Utrecht
+
+
+
+#Oppurtinities-
+
+
+    #Ask a question in a group.
+        #Things for Free?
+        #Present in some confereneces to gain points?
+        #
+
+
+#Types of oppurtunities-
+    #Work (Get better job, Do you job better).
+    #Network Reputation
+    #Getting in shape.
+    #Improve Relationships
+    #Improve some skill
+    #Visit unique place
+    #Connect between friends
+    #Meet an old friend/Family.
+    #Buy thing that you might need in a better price.
+    #Do good thing to someone.
+
+
+
+
+
+
+
 
